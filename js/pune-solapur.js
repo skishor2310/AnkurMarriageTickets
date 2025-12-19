@@ -5,10 +5,10 @@ const tickets = [
         train: "12157 / HUTATMA EXPRESS",
         pdf: "downloads/Pune-Solapur/1_19-12-2025Kishor-Sagar-Rupa(5.50PM).pdf",
         passengers: [
-            { name: "Sagar", photo: "images/sagar.jpg" },
-            { name: "Rupa", photo: "images/rupa.jpg" },
-            { name: "Harshu", photo: "images/harshu.jpg" },
-            { name: "Khushi", photo: "images/khushi.jpg" }
+            { name: "Sagar", photo: "images/Sagar.jpg" },
+            { name: "Rupa", photo: "images/Rupa.jpg" },
+            { name: "Harshu", photo: "images/Harshu.jpg" },
+            { name: "Khushi", photo: "images/Khushi.jpg" }
         ]
     },
     {
@@ -17,8 +17,8 @@ const tickets = [
         train: "22225 / SUR VANDE BHARAT",
         pdf: "downloads/Pune-Solapur/2_20-12-2025Kishor-Anu(7.15PM).pdf",
         passengers: [
-            { name: "Kishor", photo: "images/kishor.jpg" },
-            { name: "Anu", photo: "images/anu.jpg" }
+            { name: "Kishor", photo: "images/Kishor.jpg" },
+            { name: "Anu", photo: "images/Anu.jpg" }
         ]
     },
     {
@@ -27,9 +27,9 @@ const tickets = [
         train: "12157 / HUTATMA EXPRESS",
         pdf: "downloads/Pune-Solapur/3_24-12-2025Sagar-Anu-Harsha(5.50PM).pdf",
         passengers: [
-            { name: "Sagar", photo: "images/sagar.jpg" },
-            { name: "Anu", photo: "images/anu.jpg" },
-            { name: "Harshu", photo: "images/harshu.jpg" }
+            { name: "Sagar", photo: "images/Sagar.jpg" },
+            { name: "Anu", photo: "images/Anu.jpg" },
+            { name: "Harshu", photo: "images/Harshu.jpg" }
         ]
     },
     {
@@ -38,12 +38,12 @@ const tickets = [
         train: "22732 / HYDERABAD EXP",
         pdf: "downloads/Pune-Solapur/4_17-01-2026All(6.10PM).pdf",
         passengers: [
-            { name: "Kishor", photo: "images/kishor.jpg" },
-            { name: "Rupa", photo: "images/rupa.jpg" },
-            { name: "Sagar", photo: "images/sagar.jpg" },
-            { name: "Anu", photo: "images/anu.jpg" },
-            { name: "Harshu", photo: "images/harshu.jpg" },
-            { name: "Khushi", photo: "images/khushi.jpg" }
+            { name: "Kishor", photo: "images/Kishor.jpg" },
+            { name: "Rupa", photo: "images/Rupa.jpg" },
+            { name: "Sagar", photo: "images/Sagar.jpg" },
+            { name: "Anu", photo: "images/Anu.jpg" },
+            { name: "Harshu", photo: "images/Harshu.jpg" },
+            { name: "Khushi", photo: "images/Khushi.jpg" }
         ]
     },
     {
@@ -52,8 +52,8 @@ const tickets = [
         train: "11019 / KONARK EXPRESS",
         pdf: "downloads/Pune-Solapur/5_22-01-2026Rupa(6.10PM).pdf",
         passengers: [
-            { name: "Rupa", photo: "images/rupa.jpg" },
-            { name: "Khushi", photo: "images/khushi.jpg" }
+            { name: "Rupa", photo: "images/Rupa.jpg" },
+            { name: "Khushi", photo: "images/Khushi.jpg" }
         ]
     },
     {

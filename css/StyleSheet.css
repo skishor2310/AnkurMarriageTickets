@@ -1,0 +1,68 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.ticket-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.ticket-card .card-header {
+    background-color: transparent;
+    border-bottom: none;
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.ticket-card .profile-picture {
+    display: block;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+
+.ticket-card .btn-download {
+    background-color: var(--bs-primary-bg-subtle);
+    color: var(--bs-primary);
+    border: none;
+    font-size: 0.75rem;
+    padding: 5px 15px;
+    font-weight: 600;
+}
+
+.ticket-card .btn-download:hover {
+    background-color: var(--bs-primary);
+    color: #fff;
+}
+
+.ticket-card .train-time {
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.ticket-card .image-wrapper {
+    width: 60px;
+    height: 60px;
+    position: relative;
+}
+
+.ticket-card .image-wrapper .image-text {
+    position: absolute;
+    bottom: -5px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    background-color: #ffffffae;
+    border: solid 1px #ddd;
+    color: #000;
+    padding: 2px 10px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
